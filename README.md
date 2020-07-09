@@ -1,7 +1,7 @@
 # Text-in-Image-Recognition
 A python script built using Google Tesseract OCR to identify texts in an image
 
-## How to Use?
+## Installation Requirements
 
 -Install Python in your system
 
