@@ -2,6 +2,7 @@
 A python script built using Google Tesseract OCR to identify texts in an image
 
 #How to Use?
+
 -Install Python in your system
 -Install the required libraries using the command "pip install -r requirements.txt" after cloning or downloading the repository
 -Install Google Tesseract from the Official Git repository
